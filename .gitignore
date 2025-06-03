@@ -1,0 +1,25 @@
+# Environment files
+.env
+
+# Node modules
+relay-server/node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# Build and dist folders (if any in the future)
+dist/
+build/
